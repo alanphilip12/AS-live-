@@ -1,0 +1,6 @@
+{
+  "name": "AQ Live - Community Q&A Knowledge Platform",
+  "description": "A modern, responsive question-and-answer platform inspired by community knowledge sharing, with rich discussions, user profiles, topics, and real-time interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
