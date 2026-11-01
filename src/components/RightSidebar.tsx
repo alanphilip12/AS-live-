@@ -133,7 +133,7 @@ export const RightSidebar: React.FC = () => {
           <a href="#privacy" onClick={(e) => { e.preventDefault(); }} className="hover:underline">Privacy</a>
           <a href="#guidelines" onClick={(e) => { e.preventDefault(); }} className="hover:underline">Guidelines</a>
         </div>
-        <p>© 2026 AQ Live Inc. Thoughtful Community Q&A.</p>
+        <p>© 2026 AS Live Inc. Thoughtful Community Q&A.</p>
       </div>
     </aside>
   );

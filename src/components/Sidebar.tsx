@@ -133,7 +133,7 @@ export const Sidebar: React.FC = () => {
       {/* Community Info Box */}
       <div className="p-4 rounded-2xl bg-gradient-to-br from-indigo-50/70 to-sky-50/50 dark:from-indigo-950/20 dark:to-sky-950/20 border border-indigo-100/60 dark:border-indigo-900/40 text-xs text-slate-600 dark:text-slate-400">
         <p className="font-semibold text-slate-900 dark:text-slate-200 mb-1">
-          AQ Live Community Creed
+          AS Live Community Creed
         </p>
         <p className="leading-relaxed text-[11px]">
           Knowledge grows when shared with clarity, respect, and empirical curiosity. Be specific, cite reasoning, and elevate human understanding.

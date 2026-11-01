@@ -105,7 +105,7 @@ export const Navbar: React.FC = () => {
             className="group flex items-center gap-2.5 text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500 rounded-lg py-1"
           >
             <div className="relative flex h-10 w-10 items-center justify-center rounded-xl bg-gradient-to-tr from-indigo-700 via-indigo-600 to-sky-500 text-white shadow-sm shadow-indigo-500/20 group-hover:scale-105 transition-transform">
-              <span className="font-extrabold text-lg tracking-tight font-sans">AQ</span>
+              <span className="font-extrabold text-lg tracking-tight font-sans">AS</span>
               <span className="absolute -bottom-1 -right-1 flex h-3 w-3">
                 <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
                 <span className="relative inline-flex rounded-full h-3 w-3 bg-emerald-500 ring-2 ring-white dark:ring-slate-900"></span>
@@ -113,7 +113,7 @@ export const Navbar: React.FC = () => {
             </div>
             <div className="flex flex-col">
               <span className="text-xl font-bold tracking-tight text-slate-900 dark:text-white flex items-center gap-1.5 font-sans leading-none">
-                AQ Live
+                AS Live
               </span>
               <span className="text-[11px] font-medium text-slate-500 dark:text-slate-400 leading-tight">
                 Collective Intelligence

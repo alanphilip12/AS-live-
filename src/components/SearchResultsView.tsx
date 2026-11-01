@@ -67,7 +67,7 @@ export const SearchResultsView: React.FC = () => {
               Search Results for &ldquo;{searchQuery}&rdquo;
             </h1>
             <p className="text-xs text-slate-500 dark:text-slate-400">
-              Found {totalResults} total matches across AQ Live
+              Found {totalResults} total matches across AS Live
             </p>
           </div>
         </div>

@@ -220,7 +220,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       )
     );
 
-    showToast('Question published successfully to AQ Live feed!');
+    showToast('Question published successfully to AS Live feed!');
   };
 
   // Add Answer

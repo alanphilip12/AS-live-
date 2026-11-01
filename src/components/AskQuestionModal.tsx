@@ -58,7 +58,7 @@ export const AskQuestionModal: React.FC = () => {
                 Ask a Question
               </h2>
               <p className="text-xs text-slate-500 dark:text-slate-400">
-                Share your curiosity with the AQ Live community
+                Share your curiosity with the AS Live community
               </p>
             </div>
           </div>
